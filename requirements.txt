@@ -3,3 +3,9 @@ fuzzywuzzy
 python-Levenshtein
 bs4
 pandas
+tqdm
+joblib
+networkx
+netwulf
+matplotlib
+numpy
